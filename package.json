@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "mongoose": "^8.9.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.12.0",
+    "node-fetch": "^3.3.2",
+    "nodemailer": "^6.9.16",
+    "path": "^0.12.7",
+    "shutterstock-api": "^1.1.42",
+    "twilio": "^5.4.0",
+    "typescript": "^5.7.2"
+  }
+}

@@ -1,0 +1,1 @@
+INSERT INTO sign (login, password) VALUES (?, ?)
